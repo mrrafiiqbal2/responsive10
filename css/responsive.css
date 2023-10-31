@@ -1,0 +1,1574 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  .header .btn-success {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0px 0px 0px 15px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    transition: 1s;
+}
+ .smart-jackpot p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    margin: 0px 30px 30px 30px;
+}
+.smart-jackpot h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-left: 130px;
+}
+.inner-badge h5 {
+    font-size: 24px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+}
+.inner-badge h6 {
+    font-size: 20px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+.smart-jackport-2 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.vector-object p {
+    padding: 0px 25px 0px;
+    width: 70%;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+.vector-object .btn-success {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    margin: 10px 0px 0px 25px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    transition: 1s;
+}
+
+.vector-object img {
+    padding: 80px 0px;
+    max-width: 100%;
+    height: auto;
+}
+
+.inner-badge-2 h5 {
+    font-size: 25px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+}
+
+.inner-badge-2 h6 {
+    font-size: 19px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+.vector-object-2 p {
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+    margin: 15px;
+    text-transform: capitalize;
+}
+.vector-object-2 .btn-primary {
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+
+.smart-jackport-4 .title p {
+    font-size: 28px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+    margin: 25px;
+    text-transform: capitalize;
+}
+.inner-btn .btn-danger {
+    padding: 12px 35px;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background: red;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 1s;
+    margin: 0px 0px 0px 10px;
+}
+.inner-btn .btn-light {
+    padding: 12px 35px;
+    font-size: 26px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: black;
+    transition: 1s;
+}
+.inner-price .price-body h6 {
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px;
+    color: red;
+}
+
+.inner-price .price-body p {
+    font-size: 24px;
+    font-weight: 400;
+    color: #999;
+    margin: 0px;
+}
+.inner-price .price-content p {
+    width: 80%;
+    font-size: 30px;
+    font-weight: 400;
+    color: black;
+    margin: 0px auto 40px;
+}
+.inner-price .price-content .btn-primary {
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: 1px solid #eee;
+    letter-spacing: 1px;
+    font-weight: 600;
+    background: black;
+    color: #008ed6;
+    text-transform: uppercase;
+}
+.testimonials .owl-carousel .item h5 {
+    font-size: 26px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 20px 0px 0px;
+}
+
+.testimonials .owl-carousel .item p {
+    font-size: 20px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.apps-dawonload p {
+    font-size: 24px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 80px 40px 40px 70px;
+}
+.footer h1 {
+    color: white;
+    font-size: 52px;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding: 80px;
+}
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+     margin: 0px 0px 0px 0px; 
+    transition: 1s;
+}
+.footer .inner-icon {
+    color: white;
+    padding: 40px 0px;
+    letter-spacing: 10px;
+    font-size: 52px;
+}
+.inner-footer {
+    font-size: 30px;
+    padding: 20px 0px;
+    margin: 10px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .header .navbar-expand-lg .navbar-nav .nav-link {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px 0px 0px 15px;
+    text-transform: uppercase;
+}
+.inner-banner .fa {
+    margin: 20px 0px;
+    font-size: 30px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 600;
+    background: #eee;
+    text-align: left;
+}
+
+.inner-banner h1 {
+    margin: 20px 100px 0px 0px;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+}
+
+.inner-banner p {
+    margin: 20px 100px 0px 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.7em;
+}
+.h5, h5 {
+    font-size: 30px;
+}
+.img-fluid {
+    padding: 40px 0px;
+    max-width: 100%;
+    height: auto;
+}
+.smart-jackpot h2 {
+    padding: 40px 0px;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    margin-left: 130px;
+}
+.smart-jackpot p {
+    padding: 10px 0px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    margin: 30px 30px 30px 60px;
+}
+.inner-badge h5 {
+    font-size: 18px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+}
+.inner-badge {
+    margin: 0px 0px 0px 30px;
+    width: 100%;
+    text-align: center;
+    padding: 80px 40px 70px 60px;
+}
+.smart-jackpot {
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+.img-fluid {
+    padding: 100px 0px;
+    max-width: 100%;
+    height: auto;
+}
+
+.vector-object p {
+    padding: 0px 25px 0px;
+    width: 1000%;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+
+.vector-object .btn-success {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    margin: 18px 0px 0px 25px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    transition: 1s;
+}
+
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0px 0px 0px 20px;
+    transition: 1s;
+}
+
+
+
+
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .header .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: end;
+    padding: 20px 0px;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px 0px 0px 15px;
+    text-transform: uppercase;
+}
+
+.header-btn{
+    text-align: end;
+}
+  .feature .title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.feature p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7em;
+    text-align: -webkit-center;
+}
+.feature ul .nav-item {
+    padding: 20px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px 0px 25px 120px;
+    display: flex;
+}
+
+.smart-jackpot h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+    margin-left: 0px;
+}
+
+
+.smart-jackpot p {
+    text-align: revert-layer;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    margin: 30px 30px 30px 30px;
+}
+.inner-badge {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+    margin: auto;
+}
+.vector-object .title h1 {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.vector-object p {
+    padding: 0px 25px 0px;
+    width: 70%;
+    font-size: 19px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+.smart-jackport-2 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px 0px 0px 20px;
+}
+.inner-badge-2 {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.inner-badge-2 h5 {
+    font-size: 25px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+}
+
+.vector-object-2 {
+    width: 100%;
+    padding: 80px 0px;
+    text-align: center;
+}
+.footer {
+    width: 100%;
+    padding: 0px 0px;
+    text-align: center;
+    background: url(../images/f1.png) center top no-repeat;
+    background-size: cover;
+}
+.footer h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding: 40px;
+    text-align: justify;
+}
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: left;
+    padding: 20px 0px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+     margin: 0px 0px 0px 40px; 
+    transition: 1s;
+}
+
+.navbar-toggler {
+    margin: 0px 0px 0px 40px;
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+     background-color: white; 
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
+  
+}
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+ .header .navbar-expand-lg .navbar-nav .nav-link {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 15px;
+/*    padding: 10px 0px;*/
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+.header-btn{
+    text-align: left;
+}
+ .inner-banner h1 {
+     margin: 0px; 
+    font-size: 34px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+}
+.inner-banner p {
+    padding: 10px 0px;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.7em;
+
+}
+.inner-btn .btn-primary {
+    padding: 12px 35px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background: red;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 1s;
+     margin: 0px; 
+}
+.h5, h5 {
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 0px 0px 0px 50px;
+}
+
+.feature {
+    width: 100%;
+    padding: 0px; 
+}
+.feature .title h1 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+.feature p {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7em;
+}
+.feature ul .nav-item h5 {
+    text-align: justify;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+
+.feature ul .nav-item .img-fluid {
+    margin: 30px 30px 0px 20px;
+}
+
+.smart-jackpot h2 {
+     font-size: 0px; 
+    font-weight: bold;
+    color: black;
+     margin-left: 0px; 
+    text-align: center;
+}
+
+
+.smart-jackpot p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    margin: 30px 30px 30px 30px;
+}
+.inner-badge h5 {
+    padding: 10px 0px;
+    font-size: 16px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+    margin: auto;
+}
+
+.inner-badge {
+    width: 100%;
+    text-align: center;
+    padding: 50px 40px 70px 60px;
+}
+
+.vector-object .title h1 {
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.inner-badge-2 h5 {
+    font-size: 16px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 700;
+    margin: auto;
+}
+.inner-badge-2 h6 {
+    font-size: 12px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+.vector-object-2 h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: red;
+    line-height: 1.4em;
+    margin: 15px;
+    text-transform: uppercase;
+}
+.testimonials .title h1 {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1.4em;
+    text-transform: capitalize;
+    color: black;
+    padding: 40px 0px;
+}
+.testimonials .owl-carousel .item h4 {
+    font-size: large;
+    line-height: 1.6em;
+    color: black;
+    font-style: italic;
+    font-weight: 700;
+    margin: 0px 0px 20px;
+}
+
+.testimonials .owl-carousel .item img {
+    width: 100px;
+    height: auto;
+    border-radius: 100%;
+    margin: 0px 0px 0px 100px;
+}
+.testimonials .owl-carousel .item h5 {
+    font-size: 16px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+     margin: 0px 0px 0px;
+    text-align: center;
+}
+.testimonials .owl-carousel .item p {
+    font-size: 14px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+     padding: 0px 0px; 
+    text-align: center;
+    background: url(../images/f1.png) center top no-repeat;
+    background-size: cover;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: baseline;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+.navbar-toggler {
+    /*padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;*/
+    color: var(--bs-navbar-color);
+     background-color: white; 
+   /* border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);*/
+}
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+     margin: 0px 0px 0px 0px; 
+    transition: 1s;
+}
+
+
+
+ 
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .header .navbar-expand-lg .navbar-nav .nav-link {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 15px;
+/*    padding: 10px 0px;*/
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.header-btn{
+    text-align: left;
+}
+  
+
+  .banner {
+    width: 100%;
+     padding: 0px 0px;
+}
+
+
+.inner-banner h1 {
+    padding: 10px 0px;
+    margin: 0px;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+}
+
+.inner-banner p {
+    margin:0px;
+    padding: 10px 0px;
+    width: 100%;
+    font-size: 13px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.7em;
+}
+
+.inner-btn {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.h5, h5 {
+    font-size: 18px;
+    text-align: center;
+}
+.company .company-img {
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+    margin-left: 0px;
+    background: yellowgreen;
+}
+
+.company {
+    width: 100%;
+     padding: 0px; 
+}
+
+.feature {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+
+
+.feature .title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.feature p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.7em;
+    text-align: center;
+}
+
+.smart-jackpot h2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+     margin-left: 0px;
+}
+
+.smart-jackpot .img-fluid {
+     margin: 0px; 
+}
+.smart-jackpot p {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    margin: 10px 10px 10px 20px;
+}
+
+.feature ul .nav-item h5 {
+    padding: 10px 0px;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+
+.inner-badge {
+    width: 100%;
+    text-align: center;
+    padding:40px 30px 20px 30px;
+}
+
+.vector-object {
+    width: 100%;
+    padding: 0px 0px;
+}
+.img-fluid {
+    max-width: -webkit-fill-available;
+    height: auto;
+}
+.vector-object .title h1 {
+    padding: 0px;
+    text-align: center;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.vector-object p {
+    padding:  0px; 
+     width: 100%; 
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+.vector-object .btn-success {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    margin: 10px 0px 0px 80px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    transition: 1s;
+}
+.smart-jackport-2 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.smart-jackport-2 p {
+    padding: 10px 0px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px;
+}
+.inner-badge-2 {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px 0px 60px;
+}
+.inner-badge-2 {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+.inner-badge-2 h6 {
+    font-size: 12px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+.vector-object-2 h1 {
+    padding: 20px 0px;
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+    line-height: 1.4em;
+     margin: 0px; 
+    text-transform: uppercase;
+    text-align: center;
+}
+.vector-object-2 p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+     margin: 0px; 
+    text-transform: capitalize;
+}
+
+.vector-object-2 .btn-primary {
+    margin: 10px 0px 0px 100px;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.smart-jackport-4 {
+    width: 100%;
+    padding: 0px 0px;
+    text-align: center;
+}
+
+.smart-jackport-4 .title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 1.2em;
+    color: red;
+     margin: 0px; 
+    font-weight: bold;
+    text-align: center;
+}
+
+.smart-jackport-4 .title p {
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+    margin: 25px;
+    text-transform: capitalize;
+}
+.inner-btn .btn-danger {
+    padding: 12px 25px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background: red;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 1s;
+    margin: 0px 0px 0px 10px;
+}
+
+.testimonials .title h4 {
+    color: red;
+    font-size: 20px;
+    background: transparent;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+.testimonials .title h1 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.4em;
+    text-transform: capitalize;
+    color: black;
+    padding: 20px 0px;
+}
+
+.testimonials .owl-carousel .item h4 {
+    font-size: 14px;
+    line-height: 1.6em;
+    color: black;
+    font-style: italic;
+    font-weight: 700;
+    margin: 10px 0px 20px;
+}
+.testimonials .owl-carousel .item img {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+        margin: 0px 0px 0px 50px;
+}
+.testimonials .owl-carousel .item h5 {
+    font-size: 14px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: 500;
+    text-transform: uppercase;
+     margin: 0px 0px 0px 30px;
+     text-align: left; 
+}
+.testimonials .owl-carousel .item p {
+    font-size: 10px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 0px 0px 0px 30px;
+}
+.apps-dawonload h1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.4em;
+    text-transform: uppercase;
+    color: red;
+     padding: 0px; 
+}
+.apps-dawonload p {
+    padding: 20px 0px;
+    text-align: unset;
+    font-size: 14px;
+    line-height: 1.2em;
+    color: currentcolor;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 0px 0px 0px 10px;
+}
+
+
+.footer {
+    width: 100%;
+    padding: 0px 0px;
+    text-align: center;
+    background: url(../images/f1.png) center top no-repeat;
+    background-size: cover;
+}
+.footer h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding: 20px;
+    text-align: justify;
+}
+
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+     background-color: white; 
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+     margin: 0px ; 
+    transition: 2s;
+}
+
+p {
+    margin-top: 0;
+     margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.footer .inner-icon {
+    color: white;
+    padding: 10px 0px;
+   letter-spacing: 0px;
+    font-size: 32px;
+}
+
+
+
+}
+
+@media (min-width: 279px) and (max-width: 319px){
+    .banner {
+    width: 100%;
+    padding: 0px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.inner-banner .fa {
+    margin: 0px;
+    font-size: 15px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 600;
+    background: #eee;
+}
+.inner-banner {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.inner-banner h1 {
+    margin: 0px;
+    font-size: 16px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+}
+
+.inner-banner p {
+    margin: 0px;
+    width: 100%;
+    font-size: small;
+    font-weight: 400;
+    color: black;
+    padding: 10px 0px;
+}
+.company {
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.title h5{
+    font-size: 13px;
+}
+.company img {
+    max-width: 10%;
+    height: auto;
+}
+.company .company-img img, svg {
+    vertical-align: middle;
+    padding: 0px;
+}
+
+.feature {
+    width: 100%;
+    padding: 0px;
+}
+.feature .title {
+    padding: 0px;
+}
+
+.feature .title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+.feature p {
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: 400;
+    line-height: 1.7em;
+}
+.feature ul .nav-item h5 {
+    padding: 10px 0px;
+    color: red;
+    font-size: small;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+.feature ul .nav-item p {
+    font-size: x-small;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: black;
+}
+.smart-jackpot {
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+}
+.smart-jackpot h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-left: 0px;
+}
+
+.smart-jackpot .img-fluid {
+    margin: 0px;
+}
+.smart-jackpot p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    margin: 0px;
+}
+.inner-badge {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.inner-badge h6 {
+    font-size: 10px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+
+.vector-object {
+    width: 100%;
+    padding: 0px 0px;
+}
+
+.vector-object .title {
+    padding: 10px 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.vector-object .title h1 {
+    font-size: medium;
+    color: red;
+    font-weight: bold;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+}
+
+.vector-object p {
+    padding: 0px;
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+    text-align: center;
+}
+.vector-object .btn-success {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    margin: 0px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    transition: 1s;
+}
+.smart-jackport-2 {
+    width: 100%;
+    padding: 40px 0px;
+    border: 1px solid #eee;
+}
+.smart-jackport-2 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 1.2em;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.smart-jackport-2 p {
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px;
+}
+.inner-badge-2 {
+    width: 100%;
+    text-align: center;
+    padding: 0px;
+}
+.inner-badge-2 .badge-img {
+    text-align: center;
+    width: auto;
+    height: auto;
+    line-height: 80px;
+    border: 1px solid #f2f2;
+    border-radius: 100%;
+     margin: 0px auto 0px;
+
+ }
+
+.vector-object-2 {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.vector-object-2 h1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    line-height: 1.4em;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.vector-object-2 p {
+    text-align: center;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+    margin: 15px;
+    text-transform: capitalize;
+}
+
+.vector-object-2 .btn-primary {
+    margin: 0px;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.smart-jackport-4 {
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+}
+
+.smart-jackport-4 .title {
+    padding: 0px;
+}
+.smart-jackport-4 .title h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.2em;
+    color: red;
+    margin: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+.smart-jackport-4 .title p {
+    padding: 10px 0px;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2em;
+    margin: 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.inner-btn .btn-danger {
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background: red;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 1s;
+    margin: 0px;
+}
+.inner-btn .btn-light {
+    padding: 10px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: black;
+    transition: 1s;
+}
+
+.inner-price .price-content p {
+    width: 80%;
+    padding: 10px 0px;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    margin: 0px;
+}
+
+.inner-price .price-content .btn-primary {
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px solid #eee;
+    letter-spacing: 1px;
+    font-weight: 600;
+    background: black;
+    color: #008ed6;
+    text-transform: uppercase;
+}
+.testimonials {
+    width: 100%;
+    padding: 86px 0px;
+    background: #eee;
+}
+.testimonials .title h4 {
+    color: red;
+    font-size: 16px;
+    background: transparent;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+.testimonials .title h1 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.4em;
+    text-transform: capitalize;
+    color: black;
+    padding: 10px 0px;
+}
+
+.testimonials .owl-carousel .item h4 {
+    font-size: 12px;
+    line-height: 1.6em;
+    color: black;
+    font-style: italic;
+    font-weight: 700;
+    margin: 0px;
+}
+.testimonials .owl-carousel .item img {
+    width: auto;
+    height: auto;
+    border-radius: 100%;
+}
+.testimonials .owl-carousel .item h5 {
+    font-size: 16px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0px;
+}
+.testimonials .owl-carousel .item p {
+    font-size: 10px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 0px;
+}
+
+.testimonials .owl-carousel .owl-nav button.owl-next, .testimonials .owl-carousel .owl-nav button.owl-prev, .testimonials .owl-carousel button.owl-dot {
+    margin: 0px;
+}
+
+.apps-dawonload {
+    width: 100%;
+    padding: 0px;
+    background: url(../images/bgg.png) center top no-repeat;
+    background-size: cover;
+}
+.apps-dawonload h1 {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.4em;
+    text-transform: uppercase;
+    color: red;
+    padding: 0px;
+}
+.apps-dawonload p {
+    font-size: 10px;
+    line-height: 1.7em;
+    color: black;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 20px 0px;
+}
+.apps-dawonload .inner-apps {
+    padding: 0px;
+}
+.footer {
+    width: 100%;
+    padding: 10px 0px;
+    text-align: center;
+    background: url(../images/f1.png) center top no-repeat;
+    background-size: cover;
+}
+.footer h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding: 0px;
+}
+
+.footer .inner-icon {
+    color: white;
+    padding: 40px 0px;
+    letter-spacing: 0px;
+    font-size: 32px;
+}
+.navbar-toggler-icon {
+    background: cornsilk;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.footer .navbar-expand-lg .navbar-nav .nav-link {
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0px;
+    }
+
+.inner-footer {
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+*
+
+
+
+
+}
